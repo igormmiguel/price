@@ -1,0 +1,29 @@
+.primeiro {
+    font-weight: 700;
+    line-height: 1.25rem;
+    color: var(--Bright_Yellow);
+    margin-bottom: 1rem;
+}
+
+.segundo {
+    line-height: 1.625rem;
+    color: var(--Grayish_Blue);
+    font-size: 0.875rem;
+}
+
+.classe_superior {
+    padding-inline: 1.5rem;
+    padding-block: 2rem;
+    border-radius: 0.313rem top;
+    background-color: white;
+}
+
+.esquerda {
+    background-color: var(--Cyan);
+    padding: 1.5rem;
+}
+
+.direita {
+    background-color: var(--light_cyan);
+    padding: 1.5rem;
+}
