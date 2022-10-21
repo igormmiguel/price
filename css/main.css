@@ -27,3 +27,21 @@
     background-color: var(--light_cyan);
     padding: 1.5rem;
 }
+
+.primeiro_esquerda {
+    color: white;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 2.375rem;
+    margin-right: 0.75rem;
+}
+
+.segundo_esquerda {
+    color: white;
+    opacity: 0.5;
+}
+
+.div_esquerda {
+    display: flex;
+    margin-bottom: 0.25rem;
+}
