@@ -23,10 +23,6 @@
     padding: 1.5rem;
 }
 
-.direita {
-    background-color: var(--light_cyan);
-    padding: 1.5rem;
-}
 
 .primeiro_esquerda {
     color: white;
@@ -71,7 +67,7 @@
     background-color: var(--light_cyan);
     padding: 1.5rem;
     border-bottom-right-radius: 0.313rem;
-    border-bottom-left-radius: 0.313rem;
+
 }
 
 .direita p {

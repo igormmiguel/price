@@ -2,14 +2,19 @@
     .classe_inferior{
         display: flex;
     }
-    .esquerda, 
+    .esquerda {
+        width: 100%;
+        padding: 2.5rem;
+        border-bottom-left-radius: 0.5rem;
+    }
     .direita {
         width: 100%;
         padding: 2.5rem;
+        border-bottom-left-radius: 0.5rem;
     }
     main {
         max-width: 40rem;
-        padding: none;
+        padding: 0;
     }
     body {
         min-height: 100vh;
@@ -40,8 +45,8 @@
     }
 
     .direita{
-        border-bottom-left-radius: none;
-        border-bottom-right-radius: none;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
         border-bottom-right-radius: 0.5rem;
     }
 }
